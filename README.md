@@ -15,7 +15,10 @@ Have you ever thought of making Operating System of yourself!Yes you heard it ri
 6. PlayDiceRoll - This app refreshes our mind. We can roll the dice. This gives random numbers of the dice.
 7. WeatherApp -Shows weather of cities using weather Api
 
- ## CALCULATOR
+## HOME SCREEN
+ ![image](https://user-images.githubusercontent.com/73028420/140169221-3ec73799-894f-44d2-8fd1-f7a328e76257.png)
+
+## CALCULATOR
   ![image](https://user-images.githubusercontent.com/73028420/140090027-2bc6398c-4280-441a-a2b5-ebe8a83d2eab.png)
 
 ## GALLERY
